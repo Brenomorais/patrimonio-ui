@@ -30,9 +30,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Objetivo do projeto UI
 
 - Integrar a camada de interface Client Side desenvolvida em Angular,
-com  camada Server Side API REST desenvolvida em Spring Boot API que fornece
-recursos via protocolo HTTP.
+com  camada Server Side API REST desenvolvida em Spring Boot API.
 
 - A API REST tem como objetivo atingir diversos tipos de clientes como navegadores,
 sistemas desktop e aplicações mobile que desejam usar os serviços da API que por meio
-de requisições HTTP que podendo receber a resposta em formato xml,json ou outro especificado.
+de requisições HTTP que podem receber a resposta em formato xml,json ou outro especificado.
