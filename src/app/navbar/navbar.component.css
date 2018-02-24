@@ -1,5 +1,24 @@
 .navbar{
-    padding: 20px 10px;
-    color: #1a73eb;
-    background-color: #f2f2f2;
+    padding: 10px 10px;    
+    background-color: #232328;
+    font-family: Verdana,Tahoma, sans-serif;      
+} 
+.navbar .img-logo{    
+    margin-top:  -1px;
+    margin-left: 2px;
+}
+.navbar .title{
+    margin-top: -4%;
+    margin-left: 4.5%;
+    color: #7fbe3f;
+    font-size: 1.5em;
+    font-weight: bold; 
+}
+.navbar .caption{
+    margin-left: 4%;
+    margin-top: 2x; 
+    color: #ffffff;      
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: oblique;    
 }
